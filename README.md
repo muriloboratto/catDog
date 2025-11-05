@@ -1,11 +1,11 @@
 
-## **Avaliação Prática: Implementação de um NPC Inteligente com Aprendizado de Máquina no Unity**
+## **Avaliação Prática: Implementação de um NPC Inteligente com Aprendizado de Máquina no UNITY**
 
 **Tema:**
 *Aprendizado de Máquina aplicado à Inteligência Artificial de Personagens Não Jogáveis (NPCs)*
 
 **Descrição:**
-Nesta avaliação, o(a) aluno(a) deverá criar uma **cena interativa no Unity** que simule o comportamento adaptativo de um NPC utilizando conceitos de **aprendizado de máquina com redes neurais artificiais (RNA)**.
+Nesta avaliação, o(a) aluno(a) deverá criar uma **cena interativa no UNITY** que simule o comportamento adaptativo de um NPC utilizando conceitos de **aprendizado de máquina com redes neurais artificiais (RNA)**.
 
 A cena será composta por dois personagens:
 
@@ -23,10 +23,10 @@ O jogador controlará o cachorro com o teclado e deverá tentar encostar no gato
 
 ###  **Requisitos Técnicos:**
 
-1. **Cenário Unity:**
+1. **Cenário UNITY:**
 
    * Ambiente simples (2D).
-   * Inclusão de colisões, contadores de vidas e interface mínima (UI mostrando as vidas restantes).
+   * Inclusão de colisões, contadores de vidas e interface mínima.
 
 2. **Player (Cachorro):**
 
@@ -40,12 +40,11 @@ O jogador controlará o cachorro com o teclado e deverá tentar encostar no gato
 
 4. **Aprendizado de Máquina:**
 
-   * Pode ser implementado de forma simplificada (ex: treinamento supervisionado com dados simulados, ou integração com ML-Agents do Unity).
+   * Pode ser implementado de forma simplificada (ex: treinamento supervisionado com dados simulados).
    * A rede deve identificar padrões (como direção, velocidade, distância média entre os personagens) e melhorar sua estratégia de fuga.
 
 5. **Feedback Visual:**
 
-   * Mostrar na tela o número de vidas restantes.
    * Indicar quando o gato "aprendeu" (mudança perceptível no comportamento).
 
 ---
